@@ -1,0 +1,48 @@
+body {
+    font-family: 'Spline Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.flex-cntainer {
+    display: flex;
+    margin-bottom: 120px;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 8%;
+    padding-top: 2%;
+}
+
+.half-width img {
+    width: 80%;
+
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.text-color {
+    color: rgb(252, 173, 2);
+}
+
+.left-border {
+
+    border-left: 5px solid rgb(252, 173, 2);
+    padding-left: 7px;
+    border-radius: 5px 5px;
+}
+
+.button {
+    text-decoration: none;
+    background-color: rgb(241, 70, 70);
+    padding: 10px 50px;
+    color: white;
+    border-radius: 5px;
+}
+
+p {
+    margin: 35px 0px;
+}
