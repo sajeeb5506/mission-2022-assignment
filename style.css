@@ -22,6 +22,7 @@ body {
 
 h1 {
     font-size: 60px;
+    text-align: center;
 }
 
 h3 {
@@ -110,9 +111,19 @@ p {
     background-repeat: no-repeat;
 }
 
+.servis-heading {
+    color: rgb(108, 108, 255);
+
+}
+
 footer {
     text-align: center;
     background-color: black;
     color: white;
     padding: 20px 0;
+}
+
+#service-img:hover {
+    background-image: linear-gradient(rgb(141, 141, 241), rgb(255, 98, 98));
+    border-radius: 50%;
 }
