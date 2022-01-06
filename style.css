@@ -112,6 +112,10 @@ p {
     background-repeat: no-repeat;
 }
 
+#text-aling {
+    text-align: center;
+}
+
 #service-img:hover {
     background-image: linear-gradient(rgb(141, 141, 241), rgb(255, 98, 98));
     border-radius: 50%;
